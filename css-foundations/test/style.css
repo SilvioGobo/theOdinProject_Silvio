@@ -1,0 +1,17 @@
+/* rule 1 */
+.class.second-class {
+  font-size: 12px;
+}
+
+/* rule 2 */
+.class .second-class {
+  font-size: 24px;
+}
+
+#parent {
+  color: red;
+}
+
+.child {
+  color: blue;
+}
